@@ -59,14 +59,14 @@
 
 ### 🎮 [Gambetas-Road](https://github.com/M4t30A/Gambetas-Road)
 ```
-  Descripción : Juego de Messi que gambetea como el crack que es
+  Descripción : Juego de Messi (Colegio)
   Lenguaje    : Python 🐍
   Estado      : [▓▓▓▓▓▓▓▓░░] Completado
 ```
 
 ### 🌐 [M4t30A.github.io](https://github.com/M4t30A/M4t30A.github.io)
 ```
-  Descripción : Mi sitio web personal
+  Descripción : Mi sitio web personal - Portfolio
   Lenguaje    : HTML
   Estado      : [▓▓▓▓▓░░░░░] En progreso
 ```
@@ -78,7 +78,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mate0--amaya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mate0-amaya)
-[![Gmail](https://img.shields.io/badge/Gmail-mateoamaya2006-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateoamaya2006@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-mateoamaya2006-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateoamaya744@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-tucacafloja-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/tucacafloja)
 
 </div>
