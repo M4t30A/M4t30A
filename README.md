@@ -1,24 +1,96 @@
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<h2> Hola mi nombre es Amaya Mateo<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
- </p>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+<div align="center">
 
-- Soy Amaya Mateo, estudiante y entusiasta de la tecnología, apasionado por la ciberseguridad. Constantemente exploro nuevas tecnologías y afronto retos, y me desenvuelvo en el dinámico mundo de la tecnología. También me gusta jugar videojuegos.<summary><h2 style="display: inline-block"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>
--  <summary><h2 style="display: inline-block">Como me pueden buscar🤝</h2></summary>
-    </ul>
-  <!--icons and links-->
-  <p align="left">
-  <a href="www.linkedin.com/in/mate0-amaya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="mateoamaya2006@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
-  <a href="discordapp.com/users/tucacafloja" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  </p>
-  </div> 
+```
+╔══════════════════════════════════════════════════════╗
+║          > INITIALIZING PROFILE: M4t30A...           ║
+║          > ACCESS GRANTED                            ║
+╚══════════════════════════════════════════════════════╝
+```
 
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+# `whoami` → **Amaya Mateo**
 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-<img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;CTF+Player+%26+Tech+Explorer;Linux+%7C+Python+%7C+Bash;Always+learning%2C+always+hacking." alt="Typing SVG" />
+
+</div>
+
+---
+
+## `$ cat about_me.txt`
+
+```bash
+┌──(M4t30A㉿kali)-[~]
+└─$ cat about_me.txt
+
+  Nombre    :  Amaya Mateo
+  Rol       :  Estudiante & Cybersecurity Enthusiast
+  OS        :  Kali Linux / Ubuntu
+  Intereses :  Ciberseguridad, CTFs, nuevas tecnologías
+  Hobby     :  Videojuegos 🎮
+  Estado    :  Constantemente explorando y aprendiendo...
+```
+
+---
+
+## `$ ls skills/`
+
+<div align="center">
+
+### 🖥️ Sistemas Operativos
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### 💻 Lenguajes & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🔧 Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
+
+</div>
+
+---
+
+## `$ ls projects/`
+
+### 🎮 [Gambetas-Road](https://github.com/M4t30A/Gambetas-Road)
+```
+  Descripción : Juego de Messi que gambetea como el crack que es
+  Lenguaje    : Python 🐍
+  Estado      : [▓▓▓▓▓▓▓▓░░] Completado
+```
+
+### 🌐 [M4t30A.github.io](https://github.com/M4t30A/M4t30A.github.io)
+```
+  Descripción : Mi sitio web personal
+  Lenguaje    : HTML
+  Estado      : [▓▓▓▓▓░░░░░] En progreso
+```
+
+---
+
+## `$ cat contact.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mate0--amaya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mate0-amaya)
+[![Gmail](https://img.shields.io/badge/Gmail-mateoamaya2006-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateoamaya2006@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-tucacafloja-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/tucacafloja)
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="200rem" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+
+```
+> Connection terminated. Have a nice hack. 👾
+```
+
+</div>
